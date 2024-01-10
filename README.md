@@ -28,3 +28,12 @@ Running schema and seed commands creates a development database seeded with test
 The application starts the server, and Sequelize models are synchronized with the MySQL database.
 API GET routes for categories, products, and tags return data in formatted JSON.
 API POST, PUT, and DELETE routes for categories, products, and tags allow for successful data manipulation in the database.
+
+# Screenshots
+
+![POST](<SS 13 .png>)
+![POST 2](<SS 13 Post.png>)
+![Put](<SS 13 3.png>)
+![GET](<SS 13 Get.png>)
+
+Link to video - https://drive.google.com/file/d/1Wtr8nOqaCtf9yxe7x31FBTl6UEMaOONH/view
